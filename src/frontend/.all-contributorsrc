@@ -1,0 +1,26 @@
+{
+  "projectName": "omniflow",
+  "projectOwner": "vivym",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "vivym",
+      "name": "Ming Yang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8755280?v=4",
+      "profile": "https://github.com/vivym",
+      "contributions": [
+        "code",
+        "infra"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}
